@@ -1,0 +1,2 @@
+The purpose of this project is to perform basic text analytics operations using Python. Some operations include changing all letters to lower case letters and removing stop words.
+The dataset is composed of 11 speeches by Donald Trump.
